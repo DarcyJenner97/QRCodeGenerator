@@ -1,0 +1,61 @@
+h1 {
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: rgb(17, 17, 17);
+    max-width: 15em;
+    margin-bottom: 2em;
+    margin-top: 1em;
+}
+p {
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: rgb(17, 17, 17);
+    max-width: 15em;
+    margin-bottom: 2em;
+}
+button {
+    display: block;
+    background-color: rgb(95, 95, 95);
+    margin: auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    max-width: 15em;
+    margin-bottom: 2em;
+    border: none;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    padding: 1em;
+}
+button:hover {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    background-color: rgb(189, 60, 60);
+}
+#qrcode {
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: rgb(17, 17, 17);
+    max-width: 16em;
+}
+body {
+    background-color: beige;
+}
+input {
+    min-width: 18em;
+    padding: 0.5em;
+    background-color: beige;
+    border: solid black 3px;
+    border-radius: 30px;
+}
+
+#noTextError {
+    padding: 1.5em 3em;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(232, 70, 70);
+    visibility: hidden;
+}
