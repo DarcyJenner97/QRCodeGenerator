@@ -9,8 +9,11 @@ At current, this is only the initial development, with the capability to generat
 ## Future State
 The future development of this project will have the ability to;
  > Customize both the black and the white colours of the QR code
+
 > Change whether the QR code encode in Binary or ASCII
+
 > Change the amount of redundancy in the QR code
+
 > Add logos to the QR code
 
 ## Future Development
